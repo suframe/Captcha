@@ -2,7 +2,7 @@
     "name": "suframe/captcha",
     "type": "captcha",
     "description": "Captcha generator",
-    "keywords": ["captcha", "spam", "bot"],
+    "keywords": ["captcha", "spam", "bot", "realpath fixed"],
     "homepage": "https://github.com/Gregwar/Captcha",
     "license": "MIT",
     "authors": [
